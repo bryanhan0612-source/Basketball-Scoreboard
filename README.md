@@ -13,7 +13,7 @@ Technologies Used:
 - JavaScript
 
 How to Use
-1. Open index.html in a web browser.
+1. Open index.html in a web browser or use https://bprojectb.netlify.app/
 2. Click +1, +2, or +3 buttons under HOME or AWAY to increase the corresponding team’s score.
 3. Click RESET to set both scores back to 0.
 
